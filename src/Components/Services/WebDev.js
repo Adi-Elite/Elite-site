@@ -36,7 +36,7 @@ export const WebDev = () => {
 
                     <img src={R} height="100rem" style={{ padding: "rem" }} />
                     <Dropdown style={{ padding: "2rem" }}>
-                        <Dropdown.Toggle variant="primary" id="dropdown-basic">
+                        <Dropdown.Toggle variant="" id="dropdown-basic">
                             React
                             </Dropdown.Toggle>
                         <Dropdown.Menu style={{ padding: "2rem" }}>
@@ -47,7 +47,7 @@ export const WebDev = () => {
 
                     <img src={A} height="100rem" style={{ padding: "rem" }} />
                     <Dropdown style={{ padding: "2rem" }}>
-                        <Dropdown.Toggle variant="primary" id="dropdown-basic">
+                        <Dropdown.Toggle variant="" id="dropdown-basic">
                             Angular
                             </Dropdown.Toggle>
                         <Dropdown.Menu style={{ padding: "2rem" }}>
@@ -59,7 +59,7 @@ export const WebDev = () => {
 
                     <img src={ES} height="100rem" style={{ padding: "1rem" }} />
                     <Dropdown style={{ padding: "2rem" }}>
-                        <Dropdown.Toggle variant="primary" id="dropdown-basic">
+                        <Dropdown.Toggle variant="" id="dropdown-basic">
                             ECMA SCRIPT
                             </Dropdown.Toggle>
                         <Dropdown.Menu style={{ padding: "2rem" }}>
@@ -72,7 +72,7 @@ export const WebDev = () => {
 
                     <img src={WP} height="100rem" style={{ padding: "rem" }} />
                     <Dropdown style={{ padding: "2rem" }}>
-                        <Dropdown.Toggle variant="primary" id="dropdown-basic">
+                        <Dropdown.Toggle variant="" id="dropdown-basic">
                             WordPress
                             </Dropdown.Toggle>
                         <Dropdown.Menu style={{ padding: "2rem" }}>

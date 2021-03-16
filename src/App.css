@@ -3,11 +3,9 @@
   padding: 0;
   font-family: 'Ubuntu', sans-serif;
 }
-
 body{
-  background-color: rgb(187, 113, 113);
+  background: -webkit-linear-gradient(left, #00e1ff, #282ab8);
 }
-
 
 
 
