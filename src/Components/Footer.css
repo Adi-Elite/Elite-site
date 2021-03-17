@@ -1,0 +1,28 @@
+
+
+.foot-main{
+    background-color: #726b6b;
+    color:black;
+    text-align: "center";
+    height: "15rem";
+    margin-top: 100vh;
+    width: "100%"
+}
+
+.align{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+}
+
+@media (max-width:960px){
+    .align{
+        display: flex;
+        flex-direction: column;
+        font-size: medium;
+        justify-content: flex-end;
+        margin-bottom: 0;
+    }
+   
+}

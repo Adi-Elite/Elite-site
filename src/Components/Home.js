@@ -32,7 +32,7 @@ export const Home = () => {
                 width:"100%",
                 top:"50%",
                 left:"50%",
-                height:"100%",
+                height:"80%",
                 objectFit:"cover",
                 transform:"translate(-50%,-50%)",
                 zIndex:"-1"

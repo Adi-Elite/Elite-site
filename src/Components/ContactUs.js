@@ -9,7 +9,7 @@ export  class ContactUs extends Component {
           <div>
             <div>
               <div>
-                <div className="container contact-form" style={{textAlign:"center"}}>
+                <div className="contact-form" style={{textAlign:"center"}}>
                   <div className="contact-image">
                   <img src={logo}/>
                   </div>
