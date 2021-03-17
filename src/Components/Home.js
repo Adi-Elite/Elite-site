@@ -42,7 +42,7 @@ export const Home = () => {
             <div className="content">
                 Transforming Technologies one step at a time.
             </div>
-            <div style={{color:"white",fontSize:"2rem", }}>
+            <div style={{color:"white",fontSize:"1.6rem", paddingTop:"2rem"}}>
                 Quote of the day:
                 "{data}"
                 -{author}
