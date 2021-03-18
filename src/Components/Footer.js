@@ -36,7 +36,7 @@ export const Footer = () => {
                             <i className="fab fa-linkedin-in" style={{marginBottom:"2.5rem",paddingRight:"2rem"}}></i>
                             <i class="fab fa-facebook-f" style={{paddingRight:"2rem"}}></i>
                             <i class="fab fa-instagram" style={{paddingRight:"2rem"}}></i>
-                            <i class="fab fa-twitter" ></i>
+                            <i class="fab fa-twitter"style={{paddingRight:"1.5rem"}} ></i>
                         </li>
                     </ul>
                 </div>

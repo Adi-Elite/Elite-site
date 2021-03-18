@@ -1,6 +1,6 @@
 import './App.css';
 import {NavBar} from './Components/Navbar.js';
-import  {Footer } from './Components/Footer.js';
+import  {Footer} from './Components/Footer.js';
 import {About} from './Components/About.js';
 import {WebDev} from './Components/Services/WebDev.js';
 import {Home} from './Components/Home.js';

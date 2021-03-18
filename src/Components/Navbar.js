@@ -16,7 +16,7 @@ export const NavBar = () => {
                     <Nav className="ml-auto" style={{padding:"2rem",fontSize:"1.5rem"}} >
                         <Nav.Link href="/" >Home</Nav.Link>
                         <Nav.Link href="/about">About</Nav.Link>
-                        <NavDropdown title="Services" id="basic-nav-dropdown" >
+                        <NavDropdown title="Services" id="basic-nav-dropdown" bg="secondary">
                             <NavDropdown.Item href="/services/mobdev" style={{fontSize:"1.5rem"}} >Mobile App Dev</NavDropdown.Item>
                             <NavDropdown.Item href="/services/webdev" style={{fontSize:"1.5rem"}}>Web Application</NavDropdown.Item>
                                 <NavDropdown title="Digital Marketing"  type="text/css" drop="left" id="basic-nav-dropdown" style={{fontSize:"1.5rem"}}>
